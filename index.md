@@ -8,8 +8,8 @@ I love😍 - Badminton🏸 , Music🎶 , Table Tennis🏓.
 
 ## Links
 
-Github.com: (https://github.com/ankit1414)
+[Github](https://github.com/ankit1414)
 
-Hackerrank.com: (https://www.hackerrank.com/bhardwajankit141)
+[Hackerrank](https://www.hackerrank.com/bhardwajankit141)
 
-Linkedin: (https://www.linkedin.com/in/ankit-bhardwaj-aa1246183/)
+[Linkedin](https://www.linkedin.com/in/ankit-bhardwaj-aa1246183/)
